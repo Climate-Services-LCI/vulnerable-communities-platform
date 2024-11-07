@@ -1,2 +1,2 @@
-# VCP
-Vulnerable Communities Platform
+# Vulnerable Communities Platform
+California's Vulnerable Communities Platform
