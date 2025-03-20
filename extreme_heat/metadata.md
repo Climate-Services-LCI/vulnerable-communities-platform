@@ -2,6 +2,16 @@ ReadME Extreme Heat Metadata
 
 Produced by the Climate Services Team at the Governor's Office of Land Use and Climate Innovation
 
+Data sources
+
+        https://cadcat.s3.amazonaws.com/index.html#loca2/aaa-ca-hybrid/ACCESS-CM2/0p0625deg/r1i1p1f1/ssp370/tasmax/
+        
+        https://cadcat.s3.amazonaws.com/index.html#loca2/aaa-ca-hybrid/ACCESS-CM2/0p0625deg/r1i1p1f1/historical/tasmax/
+        
+        https://cadcat.s3.amazonaws.com/index.html#loca2/aaa-ca-hybrid/ACCESS-CM2/0p0625deg/r1i1p1f1/historical/tasmin/
+        
+        https://cadcat.s3.amazonaws.com/index.html#loca2/aaa-ca-hybrid/ACCESS-CM2/0p0625deg/r1i1p1f1/ssp370/tasmin/ 
+
 Indicators 
         
   1) Frequency of days over 100 degrees F 
