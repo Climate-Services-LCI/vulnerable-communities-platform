@@ -3,10 +3,10 @@ Welcome to the GitHub repository for the Vulnerable Communities Platform, develo
 
 Please direct any questions to the Climate Services team at LCI:
 
-Ben McMahan, Climate Services Manager: Ben.McMahan@opr.ca.gov
+Ben McMahan, Climate Services Manager: Ben.McMahan@lci.ca.gov
 
-Mark Hedlund, GIS Specialist: Mark.Hedlund@opr.ca.gov
+Mark Hedlund, GIS Specialist: Mark.Hedlund@lci.ca.gov
 
-Ankitha Doddanari, Staff Analyst for Climate Equity and Resilience Engagement: Ankitha.Doddanari@opr.ca.gov
+Ankitha Doddanari, Staff Analyst for Climate Equity and Resilience Engagement: Ankitha.Doddanari@lci.ca.gov
 
-Hanna Bliska, Climate Adaptation and Coastal Resilience Specialist: Hanna.Bliska@opr.ca.gov
+Hanna Bliska, Climate Adaptation and Coastal Resilience Specialist: Hanna.Bliska@lci.ca.gov
