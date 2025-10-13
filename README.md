@@ -4,7 +4,7 @@ Welcome to the GitHub repository for the Vulnerable Communities Platform, develo
 ## Structure
 The repository is structured in the following way:
 
-Each of the five hazards has a folder. Each folder contains code developed for indicators (when applicable), as well as a metadata file outlining the methodology.
+Each of the five hazards has a folder. Each folder contains code developed for indicators (when applicable), as well as a metadata file outlining the methodology. Preliminary folders include code for layers considered in preliminary assessment but not used in final visualization.
 
 ## Questions
 Please direct any questions to the Climate Services team at LCI:
