@@ -1,3 +1,7 @@
+ReadME Drought Metadata
+
+Detailed methodology and data layers can be found in our Methodology Report: https://docs.google.com/viewerng/viewer?url=https://gov-opr.maps.arcgis.com/sharing/rest/content/items/ff3579e26cf643e082344b91d3f591d2/data
+
 Climate Data
 
 100- & 500-year floodplain data, climate projections for increased role of extreme events in precipitation totals.
